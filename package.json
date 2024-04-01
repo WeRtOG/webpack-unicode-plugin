@@ -1,0 +1,30 @@
+{
+    "name": "webpack-unicode-plugin",
+    "version": "1.0.0",
+    "description": "A webpack plugin to ensure proper Unicode encoding of JavaScript files.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/resonaura/webpack-unicode-plugin.git"
+    },
+    "keywords": [
+      "webpack",
+      "plugin",
+      "unicode",
+      "encoding"
+    ],
+    "author": "Andrii Vynohradov <resonaura@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/resonaura/webpack-unicode-plugin/issues"
+    },
+    "homepage": "https://github.com/resonaura/webpack-unicode-plugin#readme",
+    "dependencies": {
+      "webpack": "^5.0.0"
+    },
+    "devDependencies": {}
+  }
+  
