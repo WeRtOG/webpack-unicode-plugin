@@ -10,7 +10,7 @@ class UnicodePlugin {
           name: "UnicodePlugin",
           // Specify the stage to ensure your plugin runs at the correct time
           // Adjust the stage based on when you want your plugin to run
-          stage: Compilation.PROCESS_ASSETS_STAGE_OPTIMIZE,
+          stage: Compilation.PROCESS_ASSETS_STAGE_SUMMARIZE,
         },
         (assets, callback) => {
           // Iterate over all the assets
